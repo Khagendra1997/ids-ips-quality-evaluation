@@ -49,7 +49,7 @@ Average quality scores across the five dimensions:
 - **Zeek** — highest overall score, driven by resilience and adaptability; best suited to threat hunting and behavioural analysis.
 - **Snort 3** — most resource-efficient, but its community rule set requires tuning before deployment.
 
-*Note: Zeek was evaluated in its default logging configuration (without dedicated detection scripts) due to a plugin compatibility issue, which lowered its measured detection rate — a test-configuration limitation, not a capability ceiling. See the Limitations section of the thesis for full detail.*
+*Note: Zeek was evaluated in its default logging configuration (without dedicated detection scripts) due to a plugin compatibility issue, which lowered its measured detection rate - a test-configuration limitation, not a capability ceiling. See the Limitations section of the thesis for full detail.*_
 
 ## Repository structure
 
